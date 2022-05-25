@@ -2,35 +2,25 @@
 
 ![text image of the word fun](https://pbs.twimg.com/profile_images/443395572783800322/nXTuit5o_400x400.jpeg)
 
+> Captain's Log, _Stardate 21352.4_
+
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit debitis temporibus porro necessitatibus quidem dolor repellat laudantium iusto sequi deserunt.
 
-> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus, esse? _more latin_!
+## Itinerary
 
-## Ingredients
-
-- Butter
-- White sugar
-- Brown sugar
-- Eggs
-- Vanilla
-- Flour
-- Baking soda
-- Salt
-- Chocolate chips
-- Oatmeal
-- Coconut
+- I
+- Did
+- Several
+- Activities
 
 ---
 
-## Directions
+## Was It Fun?
 
-1. Preheat the oven to 325.
-2. Beat the butter, sugar, eggs and vanilla together until creamy.
-3. Mix together the flour, baking soda and salt in a separate bowl.
-4. Add flour mixture to butter mixture slowly.
-5. Stir in chocolate chips, oatmeal and coconut.
-6. Bake for **10 minutes** or until golden brown.
+1. Yes
+2. Sort of
+3. Probably?
 
 ---
 
-[Click here](http://allrecipes.com/) to check out my other great recipes.
+[Click here](http://brokenlink.com) to return to the homepage.
